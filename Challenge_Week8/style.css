@@ -1,0 +1,15 @@
+body {
+    margin: 30px;
+}
+.game_display {
+    font-family: "Lucida Console", Monaco, monospace;
+    padding: 10px;
+    box-sizing: border-box;
+    border-width: thin;
+    border-color: #A9A9A9;
+    border-style: solid;
+}
+
+img {
+    height: 200px;
+}
